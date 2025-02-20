@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,Visit_Reason,Wait_Time,Doctor_Rating,Sentiment,Feedback
+1,69,Male,Follow-up,76,5,neutral,"The service was average, nothing extraordinary."
+2,41,Male,Routine Visit,6,4,negative,I am very disappointed with the long wait times and poor communication.
+3,19,Female,New Consultation,25,1,positive,The visit was smooth and the doctor was very helpful.
+4,39,Male,New Consultation,93,1,neutral,"It was an okay experience, neither good nor bad."
+5,59,Female,New Consultation,64,3,positive,"Great service, I felt well cared for and appreciated."
+6,81,Male,Follow-up,105,3,neutral,"It was an okay experience, neither good nor bad."
+7,56,Female,New Consultation,93,4,neutral,"The service was average, nothing extraordinary."
+8,26,Female,Routine Visit,6,4,positive,Outstanding service and attention. I highly recommend this facility.
+9,77,Male,New Consultation,12,3,negative,I am very disappointed with the long wait times and poor communication.
+10,53,Female,New Consultation,6,2,neutral,"Neutral experience, the service was acceptable."
+11,80,Female,Emergency,48,2,positive,I am extremely satisfied with the quality of care.
+12,31,Male,New Consultation,66,5,positive,I had an excellent experience. The staff was friendly and professional.
+13,70,Female,Emergency,93,4,neutral,"The service was average, nothing extraordinary."
+14,58,Male,Routine Visit,69,1,negative,I am very disappointed with the long wait times and poor communication.
+15,18,Female,Follow-up,119,1,neutral,"It was an okay experience, neither good nor bad."
+16,52,Male,Follow-up,9,2,positive,"Great service, I felt well cared for and appreciated."
+17,58,Female,Checkup,76,4,positive,Outstanding service and attention. I highly recommend this facility.
+18,65,Male,Routine Visit,103,4,neutral,"Neutral experience, the service was acceptable."
+19,52,Male,Follow-up,105,3,neutral,"The service was average, nothing extraordinary."
+20,31,Male,Follow-up,13,2,positive,Outstanding service and attention. I highly recommend this facility.
+21,68,Male,Checkup,56,5,neutral,"It was an okay experience, neither good nor bad."
+22,40,Male,Routine Visit,19,3,positive,Outstanding service and attention. I highly recommend this facility.
+23,30,Female,Follow-up,119,4,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+24,62,Female,Checkup,10,4,negative,"Terrible service, I did not feel cared for at all."
+25,61,Female,Follow-up,96,1,positive,I am extremely satisfied with the quality of care.
+26,18,Male,Follow-up,66,1,negative,Very unhappy with the service and the overall experience.
+27,20,Male,Follow-up,13,5,neutral,"The visit met my expectations, but there is room for improvement."
+28,61,Female,Follow-up,36,1,positive,I had an excellent experience. The staff was friendly and professional.
+29,79,Male,Emergency,56,4,positive,"Great service, I felt well cared for and appreciated."
+30,19,Male,Checkup,105,1,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+31,76,Male,Emergency,6,4,positive,The visit was smooth and the doctor was very helpful.
+32,18,Male,Emergency,57,4,positive,The visit was smooth and the doctor was very helpful.
+33,87,Female,New Consultation,59,3,positive,"Great service, I felt well cared for and appreciated."
+34,34,Male,Routine Visit,120,2,neutral,"It was an okay experience, neither good nor bad."
+35,28,Male,Checkup,77,4,neutral,"The visit met my expectations, but there is room for improvement."
+36,20,Female,New Consultation,63,4,positive,I had an excellent experience. The staff was friendly and professional.
+37,84,Male,Follow-up,24,4,negative,I am very disappointed with the long wait times and poor communication.
+38,57,Female,Emergency,108,1,neutral,I received standard care; everything was as expected.
+39,74,Male,Emergency,27,2,positive,I had an excellent experience. The staff was friendly and professional.
+40,33,Female,Checkup,120,4,positive,The visit was smooth and the doctor was very helpful.
+41,18,Female,New Consultation,73,5,negative,"The experience was below my expectations, and the care was subpar."
+42,26,Male,Follow-up,23,3,negative,Very unhappy with the service and the overall experience.
+43,71,Female,Checkup,28,4,positive,The visit was smooth and the doctor was very helpful.
+44,89,Female,New Consultation,103,1,neutral,"The service was average, nothing extraordinary."
+45,35,Female,Emergency,70,3,neutral,I received standard care; everything was as expected.
+46,58,Female,Checkup,72,1,positive,Outstanding service and attention. I highly recommend this facility.
+47,65,Female,Follow-up,21,1,neutral,"The service was average, nothing extraordinary."
+48,76,Male,Routine Visit,55,3,positive,I am extremely satisfied with the quality of care.
+49,38,Female,Checkup,32,1,positive,I had an excellent experience. The staff was friendly and professional.
+50,78,Female,Follow-up,8,3,neutral,"Neutral experience, the service was acceptable."
+51,34,Female,New Consultation,34,5,positive,The visit was smooth and the doctor was very helpful.
+52,23,Male,New Consultation,109,5,negative,Very unhappy with the service and the overall experience.
+53,63,Male,Follow-up,64,1,positive,The visit was smooth and the doctor was very helpful.
+54,49,Male,Checkup,71,2,neutral,"Neutral experience, the service was acceptable."
+55,71,Female,Follow-up,108,2,neutral,"It was an okay experience, neither good nor bad."
+56,40,Female,Follow-up,110,2,positive,I had an excellent experience. The staff was friendly and professional.
+57,50,Male,Follow-up,52,5,positive,I had an excellent experience. The staff was friendly and professional.
+58,43,Male,Emergency,29,5,positive,"Great service, I felt well cared for and appreciated."
+59,24,Male,New Consultation,49,4,neutral,"The visit met my expectations, but there is room for improvement."
+60,33,Female,New Consultation,119,4,neutral,"The service was average, nothing extraordinary."
+61,49,Male,Follow-up,29,2,neutral,"It was an okay experience, neither good nor bad."
+62,39,Female,Emergency,90,1,positive,I had an excellent experience. The staff was friendly and professional.
+63,87,Male,Follow-up,64,5,neutral,I received standard care; everything was as expected.
+64,70,Female,New Consultation,112,5,positive,The visit was smooth and the doctor was very helpful.
+65,23,Male,New Consultation,98,3,neutral,I received standard care; everything was as expected.
+66,69,Female,Routine Visit,118,4,neutral,"The visit met my expectations, but there is room for improvement."
+67,36,Male,Follow-up,96,2,positive,"Great service, I felt well cared for and appreciated."
+68,79,Male,Checkup,16,5,positive,The visit was smooth and the doctor was very helpful.
+69,18,Male,Emergency,100,1,neutral,"The visit met my expectations, but there is room for improvement."
+70,18,Female,Routine Visit,107,5,neutral,"It was an okay experience, neither good nor bad."
+71,84,Female,Emergency,20,3,neutral,"The visit met my expectations, but there is room for improvement."
+72,74,Male,New Consultation,73,1,positive,I had an excellent experience. The staff was friendly and professional.
+73,79,Female,Routine Visit,80,2,neutral,"Neutral experience, the service was acceptable."
+74,56,Female,Checkup,98,5,positive,"Great service, I felt well cared for and appreciated."
+75,27,Female,Routine Visit,104,2,positive,Outstanding service and attention. I highly recommend this facility.
+76,27,Female,Follow-up,62,1,neutral,"It was an okay experience, neither good nor bad."
+77,21,Female,Emergency,117,4,neutral,"It was an okay experience, neither good nor bad."
+78,41,Female,Emergency,39,4,positive,I am extremely satisfied with the quality of care.
+79,78,Male,Follow-up,105,4,positive,I am extremely satisfied with the quality of care.
+80,50,Female,Emergency,47,4,positive,The visit was smooth and the doctor was very helpful.
+81,29,Male,Emergency,119,2,neutral,"Neutral experience, the service was acceptable."
+82,25,Male,Emergency,78,2,positive,"Great service, I felt well cared for and appreciated."
+83,24,Female,Emergency,118,5,negative,"The experience was below my expectations, and the care was subpar."
+84,53,Male,Routine Visit,40,2,positive,I had an excellent experience. The staff was friendly and professional.
+85,41,Female,Follow-up,53,3,positive,"Great service, I felt well cared for and appreciated."
+86,41,Male,Routine Visit,16,1,neutral,"The service was average, nothing extraordinary."
+87,40,Male,Follow-up,109,1,neutral,"The visit met my expectations, but there is room for improvement."
+88,30,Male,Follow-up,53,4,positive,I am extremely satisfied with the quality of care.
+89,36,Female,Checkup,75,4,negative,"The experience was below my expectations, and the care was subpar."
+90,69,Male,Emergency,115,5,positive,I had an excellent experience. The staff was friendly and professional.
+91,29,Male,New Consultation,89,4,negative,"Terrible service, I did not feel cared for at all."
+92,33,Male,Routine Visit,57,2,negative,Very unhappy with the service and the overall experience.
+93,31,Male,Emergency,9,3,negative,"The experience was below my expectations, and the care was subpar."
+94,35,Male,New Consultation,13,2,negative,"Terrible service, I did not feel cared for at all."
+95,34,Male,Routine Visit,44,2,positive,I am extremely satisfied with the quality of care.
+96,44,Female,Emergency,9,5,positive,I am extremely satisfied with the quality of care.
+97,25,Female,Routine Visit,69,4,positive,I am extremely satisfied with the quality of care.
+98,88,Male,Routine Visit,8,4,positive,"Great service, I felt well cared for and appreciated."
+99,48,Male,Routine Visit,112,3,positive,The visit was smooth and the doctor was very helpful.
+100,36,Male,Follow-up,49,5,positive,"Great service, I felt well cared for and appreciated."
+101,75,Female,New Consultation,76,5,negative,"Terrible service, I did not feel cared for at all."
+102,56,Male,Follow-up,81,4,negative,Very unhappy with the service and the overall experience.
+103,80,Female,Checkup,29,1,positive,Outstanding service and attention. I highly recommend this facility.
+104,23,Female,New Consultation,49,5,positive,The visit was smooth and the doctor was very helpful.
+105,38,Female,Routine Visit,79,4,positive,Outstanding service and attention. I highly recommend this facility.
+106,36,Female,Checkup,22,1,positive,I am extremely satisfied with the quality of care.
+107,32,Male,Checkup,58,3,negative,Very unhappy with the service and the overall experience.
+108,74,Male,New Consultation,78,4,positive,I am extremely satisfied with the quality of care.
+109,25,Female,New Consultation,40,2,positive,The visit was smooth and the doctor was very helpful.
+110,77,Female,New Consultation,96,5,negative,"Terrible service, I did not feel cared for at all."
+111,81,Male,Checkup,77,1,positive,"Great service, I felt well cared for and appreciated."
+112,46,Male,Follow-up,10,2,positive,Outstanding service and attention. I highly recommend this facility.
+113,86,Male,Checkup,70,2,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+114,22,Male,Checkup,69,2,negative,I am very disappointed with the long wait times and poor communication.
+115,66,Male,Routine Visit,30,1,negative,I am very disappointed with the long wait times and poor communication.
+116,44,Male,Routine Visit,37,2,positive,I had an excellent experience. The staff was friendly and professional.
+117,18,Male,New Consultation,85,5,negative,"Terrible service, I did not feel cared for at all."
+118,20,Male,Routine Visit,57,5,neutral,"It was an okay experience, neither good nor bad."
+119,34,Male,Checkup,114,1,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+120,21,Female,Checkup,117,2,positive,Outstanding service and attention. I highly recommend this facility.
+121,89,Male,Emergency,38,3,neutral,"The service was average, nothing extraordinary."
+122,29,Male,New Consultation,9,3,positive,I am extremely satisfied with the quality of care.
+123,64,Male,Routine Visit,89,2,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+124,55,Female,New Consultation,102,2,neutral,"Neutral experience, the service was acceptable."
+125,47,Male,Follow-up,55,2,positive,I am extremely satisfied with the quality of care.
+126,55,Male,New Consultation,34,2,negative,Very unhappy with the service and the overall experience.
+127,22,Male,New Consultation,14,1,positive,The visit was smooth and the doctor was very helpful.
+128,86,Female,Routine Visit,70,5,positive,Outstanding service and attention. I highly recommend this facility.
+129,60,Female,Follow-up,119,1,positive,I had an excellent experience. The staff was friendly and professional.
+130,33,Female,New Consultation,108,4,positive,I had an excellent experience. The staff was friendly and professional.
+131,84,Female,Follow-up,31,5,negative,Very unhappy with the service and the overall experience.
+132,78,Female,Follow-up,23,5,positive,The visit was smooth and the doctor was very helpful.
+133,59,Male,Routine Visit,74,1,neutral,"The visit met my expectations, but there is room for improvement."
+134,29,Female,Emergency,53,2,neutral,"The service was average, nothing extraordinary."
+135,43,Male,Checkup,90,3,negative,"The experience was below my expectations, and the care was subpar."
+136,78,Male,Emergency,40,1,positive,I am extremely satisfied with the quality of care.
+137,69,Male,Emergency,32,2,neutral,"It was an okay experience, neither good nor bad."
+138,31,Male,Follow-up,11,3,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+139,35,Female,Follow-up,119,1,neutral,"The service was average, nothing extraordinary."
+140,45,Female,Checkup,21,2,neutral,"The visit met my expectations, but there is room for improvement."
+141,42,Male,Routine Visit,88,1,neutral,"Neutral experience, the service was acceptable."
+142,84,Male,Routine Visit,22,4,neutral,"It was an okay experience, neither good nor bad."
+143,51,Male,Checkup,112,3,positive,Outstanding service and attention. I highly recommend this facility.
+144,23,Female,Emergency,68,2,positive,I had an excellent experience. The staff was friendly and professional.
+145,76,Male,Routine Visit,37,5,positive,The visit was smooth and the doctor was very helpful.
+146,87,Female,New Consultation,98,3,positive,Outstanding service and attention. I highly recommend this facility.
+147,41,Male,Checkup,7,3,positive,Outstanding service and attention. I highly recommend this facility.
+148,53,Female,Emergency,88,4,negative,"Terrible service, I did not feel cared for at all."
+149,23,Female,Checkup,98,3,negative,"Terrible service, I did not feel cared for at all."
+150,83,Male,Follow-up,12,2,positive,The visit was smooth and the doctor was very helpful.
+151,61,Male,Emergency,72,3,positive,"Great service, I felt well cared for and appreciated."
+152,37,Male,New Consultation,51,1,neutral,"Neutral experience, the service was acceptable."
+153,81,Female,Routine Visit,15,4,positive,Outstanding service and attention. I highly recommend this facility.
+154,20,Male,Emergency,14,5,positive,I had an excellent experience. The staff was friendly and professional.
+155,61,Female,Routine Visit,44,2,positive,Outstanding service and attention. I highly recommend this facility.
+156,80,Male,Checkup,21,1,neutral,"The visit met my expectations, but there is room for improvement."
+157,41,Female,Follow-up,98,1,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+158,77,Female,Emergency,82,5,neutral,"The service was average, nothing extraordinary."
+159,26,Female,New Consultation,103,3,negative,I am very disappointed with the long wait times and poor communication.
+160,81,Female,New Consultation,68,5,positive,The visit was smooth and the doctor was very helpful.
+161,31,Female,Follow-up,89,5,negative,"The experience was below my expectations, and the care was subpar."
+162,43,Female,New Consultation,93,5,neutral,"It was an okay experience, neither good nor bad."
+163,35,Female,Follow-up,42,1,neutral,"The service was average, nothing extraordinary."
+164,32,Male,Checkup,21,1,positive,"Great service, I felt well cared for and appreciated."
+165,83,Female,Routine Visit,108,3,neutral,"Neutral experience, the service was acceptable."
+166,87,Female,Follow-up,11,3,positive,I had an excellent experience. The staff was friendly and professional.
+167,81,Female,Routine Visit,37,4,neutral,"The service was average, nothing extraordinary."
+168,44,Female,Routine Visit,42,1,positive,I am extremely satisfied with the quality of care.
+169,44,Male,Checkup,72,2,neutral,"The service was average, nothing extraordinary."
+170,55,Male,New Consultation,113,4,positive,Outstanding service and attention. I highly recommend this facility.
+171,46,Female,Routine Visit,33,4,neutral,"It was an okay experience, neither good nor bad."
+172,19,Male,Follow-up,119,4,neutral,"It was an okay experience, neither good nor bad."
+173,60,Male,Routine Visit,24,3,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+174,55,Female,Emergency,50,3,positive,Outstanding service and attention. I highly recommend this facility.
+175,30,Female,Emergency,93,1,positive,"Great service, I felt well cared for and appreciated."
+176,77,Male,New Consultation,112,4,negative,"The experience was below my expectations, and the care was subpar."
+177,22,Female,Routine Visit,76,2,neutral,"Neutral experience, the service was acceptable."
+178,48,Female,Checkup,55,5,positive,Outstanding service and attention. I highly recommend this facility.
+179,58,Female,Follow-up,27,1,positive,I am extremely satisfied with the quality of care.
+180,38,Female,New Consultation,58,1,positive,"Great service, I felt well cared for and appreciated."
+181,71,Male,Follow-up,44,5,positive,Outstanding service and attention. I highly recommend this facility.
+182,70,Male,Emergency,56,1,positive,"Great service, I felt well cared for and appreciated."
+183,58,Male,New Consultation,29,2,negative,"The experience was below my expectations, and the care was subpar."
+184,19,Male,Emergency,95,2,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+185,60,Male,New Consultation,55,1,positive,The visit was smooth and the doctor was very helpful.
+186,87,Male,Checkup,53,5,neutral,I received standard care; everything was as expected.
+187,39,Female,New Consultation,118,5,neutral,"Neutral experience, the service was acceptable."
+188,66,Female,New Consultation,67,5,positive,I am extremely satisfied with the quality of care.
+189,88,Male,Routine Visit,98,3,positive,I had an excellent experience. The staff was friendly and professional.
+190,79,Female,Routine Visit,53,5,positive,"Great service, I felt well cared for and appreciated."
+191,33,Female,Follow-up,22,1,neutral,"It was an okay experience, neither good nor bad."
+192,64,Female,Emergency,96,1,positive,I had an excellent experience. The staff was friendly and professional.
+193,55,Male,New Consultation,5,5,positive,The visit was smooth and the doctor was very helpful.
+194,20,Female,Emergency,78,3,neutral,"The service was average, nothing extraordinary."
+195,72,Female,Emergency,11,5,positive,Outstanding service and attention. I highly recommend this facility.
+196,74,Male,Follow-up,92,3,neutral,"Neutral experience, the service was acceptable."
+197,89,Female,Checkup,115,5,positive,"Great service, I felt well cared for and appreciated."
+198,25,Female,Follow-up,100,3,negative,Very unhappy with the service and the overall experience.
+199,54,Female,Routine Visit,18,2,positive,"Great service, I felt well cared for and appreciated."
+200,24,Male,Routine Visit,23,5,negative,I am very disappointed with the long wait times and poor communication.
+201,46,Female,Emergency,6,1,negative,I am very disappointed with the long wait times and poor communication.
+202,37,Male,Emergency,6,3,neutral,"The service was average, nothing extraordinary."
+203,29,Female,Routine Visit,41,1,positive,"Great service, I felt well cared for and appreciated."
+204,61,Male,New Consultation,90,4,positive,I had an excellent experience. The staff was friendly and professional.
+205,47,Female,Follow-up,114,1,positive,I had an excellent experience. The staff was friendly and professional.
+206,31,Male,Emergency,113,1,positive,The visit was smooth and the doctor was very helpful.
+207,39,Male,New Consultation,30,2,negative,I am very disappointed with the long wait times and poor communication.
+208,54,Male,Emergency,89,2,neutral,"Neutral experience, the service was acceptable."
+209,55,Female,Checkup,41,1,positive,"Great service, I felt well cared for and appreciated."
+210,44,Male,Follow-up,44,2,neutral,"The visit met my expectations, but there is room for improvement."
+211,70,Male,Emergency,49,1,positive,I am extremely satisfied with the quality of care.
+212,79,Female,Emergency,58,3,positive,"Great service, I felt well cared for and appreciated."
+213,70,Female,Follow-up,30,5,positive,Outstanding service and attention. I highly recommend this facility.
+214,57,Male,New Consultation,117,3,positive,"Great service, I felt well cared for and appreciated."
+215,71,Female,Routine Visit,60,1,positive,Outstanding service and attention. I highly recommend this facility.
+216,37,Male,Follow-up,120,3,negative,Very unhappy with the service and the overall experience.
+217,43,Female,Routine Visit,77,1,positive,I am extremely satisfied with the quality of care.
+218,18,Male,Routine Visit,47,2,positive,"Great service, I felt well cared for and appreciated."
+219,52,Male,Emergency,105,4,neutral,I received standard care; everything was as expected.
+220,29,Male,Routine Visit,48,3,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+221,78,Male,Emergency,61,1,positive,"Great service, I felt well cared for and appreciated."
+222,79,Female,Follow-up,12,5,neutral,"The service was average, nothing extraordinary."
+223,87,Female,Checkup,86,1,neutral,"The service was average, nothing extraordinary."
+224,76,Female,Checkup,113,2,positive,I am extremely satisfied with the quality of care.
+225,27,Female,Checkup,27,2,neutral,"The visit met my expectations, but there is room for improvement."
+226,24,Female,Routine Visit,11,1,positive,I am extremely satisfied with the quality of care.
+227,89,Female,Follow-up,91,5,positive,I am extremely satisfied with the quality of care.
+228,56,Male,Emergency,63,2,neutral,I received standard care; everything was as expected.
+229,31,Male,Follow-up,112,4,positive,I had an excellent experience. The staff was friendly and professional.
+230,20,Male,Follow-up,44,2,neutral,"The service was average, nothing extraordinary."
+231,56,Male,Checkup,8,5,neutral,"The service was average, nothing extraordinary."
+232,30,Female,Checkup,20,5,neutral,I received standard care; everything was as expected.
+233,83,Male,Follow-up,46,2,positive,The visit was smooth and the doctor was very helpful.
+234,30,Male,Emergency,36,3,positive,I had an excellent experience. The staff was friendly and professional.
+235,63,Female,Routine Visit,66,1,positive,"Great service, I felt well cared for and appreciated."
+236,74,Female,New Consultation,115,1,neutral,"It was an okay experience, neither good nor bad."
+237,42,Male,New Consultation,9,1,positive,"Great service, I felt well cared for and appreciated."
+238,20,Male,Emergency,72,2,positive,Outstanding service and attention. I highly recommend this facility.
+239,42,Female,Checkup,57,1,positive,I am extremely satisfied with the quality of care.
+240,85,Female,Follow-up,41,5,positive,"Great service, I felt well cared for and appreciated."
+241,87,Male,Follow-up,66,5,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+242,88,Female,New Consultation,63,4,negative,"Terrible service, I did not feel cared for at all."
+243,71,Male,Follow-up,113,2,positive,The visit was smooth and the doctor was very helpful.
+244,74,Female,Checkup,117,2,neutral,I received standard care; everything was as expected.
+245,23,Male,Routine Visit,58,1,neutral,"It was an okay experience, neither good nor bad."
+246,37,Female,Checkup,65,3,positive,I had an excellent experience. The staff was friendly and professional.
+247,67,Female,Checkup,92,3,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+248,30,Female,Routine Visit,115,1,neutral,"Neutral experience, the service was acceptable."
+249,31,Male,Emergency,15,1,positive,I had an excellent experience. The staff was friendly and professional.
+250,46,Male,Follow-up,29,2,negative,I am very disappointed with the long wait times and poor communication.
+251,26,Male,Checkup,9,3,positive,Outstanding service and attention. I highly recommend this facility.
+252,55,Female,Follow-up,9,2,neutral,"The service was average, nothing extraordinary."
+253,54,Female,Routine Visit,32,5,negative,I am very disappointed with the long wait times and poor communication.
+254,57,Male,Routine Visit,119,2,neutral,"It was an okay experience, neither good nor bad."
+255,57,Female,Follow-up,81,5,neutral,"It was an okay experience, neither good nor bad."
+256,36,Female,New Consultation,101,3,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+257,58,Male,Follow-up,49,1,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+258,80,Male,New Consultation,11,5,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+259,75,Male,Follow-up,35,2,positive,"Great service, I felt well cared for and appreciated."
+260,70,Female,Emergency,104,2,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+261,29,Male,Emergency,100,5,neutral,"The service was average, nothing extraordinary."
+262,34,Female,Emergency,64,5,neutral,"It was an okay experience, neither good nor bad."
+263,87,Male,Emergency,109,2,positive,I am extremely satisfied with the quality of care.
+264,77,Male,Routine Visit,97,4,positive,I had an excellent experience. The staff was friendly and professional.
+265,85,Male,Checkup,16,1,neutral,I received standard care; everything was as expected.
+266,82,Female,Emergency,86,2,negative,"The experience was below my expectations, and the care was subpar."
+267,64,Male,New Consultation,40,3,positive,I am extremely satisfied with the quality of care.
+268,24,Male,Follow-up,37,3,positive,The visit was smooth and the doctor was very helpful.
+269,43,Female,Emergency,33,4,positive,I am extremely satisfied with the quality of care.
+270,30,Male,Routine Visit,33,3,positive,Outstanding service and attention. I highly recommend this facility.
+271,19,Male,New Consultation,26,3,positive,I am extremely satisfied with the quality of care.
+272,73,Female,Routine Visit,25,5,neutral,"It was an okay experience, neither good nor bad."
+273,23,Male,Checkup,73,3,positive,"Great service, I felt well cared for and appreciated."
+274,75,Female,Emergency,65,3,positive,The visit was smooth and the doctor was very helpful.
+275,42,Female,New Consultation,22,4,positive,"Great service, I felt well cared for and appreciated."
+276,89,Female,Checkup,21,5,neutral,"The service was average, nothing extraordinary."
+277,44,Female,Emergency,120,3,neutral,"Neutral experience, the service was acceptable."
+278,61,Male,New Consultation,7,4,neutral,"Neutral experience, the service was acceptable."
+279,42,Female,Checkup,112,4,positive,I had an excellent experience. The staff was friendly and professional.
+280,55,Female,Checkup,64,5,positive,The visit was smooth and the doctor was very helpful.
+281,89,Male,Routine Visit,85,5,positive,I had an excellent experience. The staff was friendly and professional.
+282,81,Female,Follow-up,49,1,negative,I am very disappointed with the long wait times and poor communication.
+283,58,Female,Follow-up,90,3,positive,Outstanding service and attention. I highly recommend this facility.
+284,34,Female,Checkup,50,4,neutral,I received standard care; everything was as expected.
+285,57,Female,Emergency,101,2,neutral,"Neutral experience, the service was acceptable."
+286,47,Male,Routine Visit,120,2,positive,Outstanding service and attention. I highly recommend this facility.
+287,83,Female,Emergency,50,2,negative,"Terrible service, I did not feel cared for at all."
+288,61,Male,Follow-up,65,3,negative,I am very disappointed with the long wait times and poor communication.
+289,26,Female,Checkup,107,1,neutral,"Neutral experience, the service was acceptable."
+290,25,Female,Emergency,96,4,positive,I had an excellent experience. The staff was friendly and professional.
+291,24,Male,New Consultation,84,4,neutral,"It was an okay experience, neither good nor bad."
+292,39,Female,Follow-up,45,4,neutral,"The service was average, nothing extraordinary."
+293,29,Male,New Consultation,17,1,negative,Very unhappy with the service and the overall experience.
+294,36,Male,New Consultation,49,5,neutral,"The service was average, nothing extraordinary."
+295,72,Female,Follow-up,48,2,positive,"Great service, I felt well cared for and appreciated."
+296,39,Male,Checkup,63,3,positive,I am extremely satisfied with the quality of care.
+297,52,Male,Routine Visit,58,1,negative,I am very disappointed with the long wait times and poor communication.
+298,66,Female,Routine Visit,35,2,neutral,"Neutral experience, the service was acceptable."
+299,37,Male,New Consultation,96,4,neutral,"It was an okay experience, neither good nor bad."
+300,77,Female,Emergency,53,3,neutral,"Neutral experience, the service was acceptable."
+301,53,Female,Routine Visit,102,4,negative,Very unhappy with the service and the overall experience.
+302,51,Female,Emergency,119,3,positive,I had an excellent experience. The staff was friendly and professional.
+303,29,Male,Routine Visit,22,5,neutral,"Neutral experience, the service was acceptable."
+304,43,Female,New Consultation,116,2,positive,I had an excellent experience. The staff was friendly and professional.
+305,19,Male,Routine Visit,73,5,positive,I am extremely satisfied with the quality of care.
+306,77,Male,Checkup,88,2,positive,Outstanding service and attention. I highly recommend this facility.
+307,34,Male,Checkup,32,2,negative,Very unhappy with the service and the overall experience.
+308,22,Male,Checkup,44,4,positive,Outstanding service and attention. I highly recommend this facility.
+309,62,Male,Follow-up,14,3,positive,The visit was smooth and the doctor was very helpful.
+310,27,Female,Checkup,5,5,positive,The visit was smooth and the doctor was very helpful.
+311,60,Female,Checkup,61,4,positive,"Great service, I felt well cared for and appreciated."
+312,54,Male,Routine Visit,80,5,neutral,"The visit met my expectations, but there is room for improvement."
+313,61,Female,New Consultation,115,4,neutral,"It was an okay experience, neither good nor bad."
+314,37,Female,Emergency,77,5,negative,"The experience was below my expectations, and the care was subpar."
+315,46,Male,Follow-up,74,5,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+316,86,Male,Checkup,55,4,positive,"Great service, I felt well cared for and appreciated."
+317,70,Female,Follow-up,47,2,positive,The visit was smooth and the doctor was very helpful.
+318,46,Male,Follow-up,54,4,neutral,I received standard care; everything was as expected.
+319,40,Female,Routine Visit,56,2,positive,The visit was smooth and the doctor was very helpful.
+320,25,Female,Routine Visit,5,5,positive,I had an excellent experience. The staff was friendly and professional.
+321,22,Male,Emergency,69,2,positive,I had an excellent experience. The staff was friendly and professional.
+322,47,Female,Emergency,21,2,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+323,89,Male,New Consultation,37,1,positive,Outstanding service and attention. I highly recommend this facility.
+324,31,Male,Routine Visit,109,2,positive,Outstanding service and attention. I highly recommend this facility.
+325,83,Female,Checkup,37,1,negative,I am very disappointed with the long wait times and poor communication.
+326,30,Male,Routine Visit,81,1,positive,I had an excellent experience. The staff was friendly and professional.
+327,21,Female,Follow-up,74,2,neutral,"Neutral experience, the service was acceptable."
+328,40,Male,Routine Visit,79,1,positive,"Great service, I felt well cared for and appreciated."
+329,71,Male,Checkup,89,1,positive,Outstanding service and attention. I highly recommend this facility.
+330,88,Male,Routine Visit,23,4,neutral,"The visit met my expectations, but there is room for improvement."
+331,50,Male,Checkup,39,4,positive,"Great service, I felt well cared for and appreciated."
+332,28,Male,Emergency,70,1,positive,The visit was smooth and the doctor was very helpful.
+333,43,Female,Emergency,74,4,positive,I had an excellent experience. The staff was friendly and professional.
+334,43,Male,New Consultation,9,2,neutral,"It was an okay experience, neither good nor bad."
+335,61,Female,Follow-up,52,2,neutral,"The visit met my expectations, but there is room for improvement."
+336,60,Male,Routine Visit,27,3,positive,The visit was smooth and the doctor was very helpful.
+337,64,Male,New Consultation,19,1,neutral,"It was an okay experience, neither good nor bad."
+338,68,Male,New Consultation,25,5,positive,I am extremely satisfied with the quality of care.
+339,51,Female,Routine Visit,72,5,positive,Outstanding service and attention. I highly recommend this facility.
+340,44,Male,New Consultation,39,2,neutral,"The visit met my expectations, but there is room for improvement."
+341,35,Female,Checkup,81,4,negative,Very unhappy with the service and the overall experience.
+342,24,Male,New Consultation,78,5,positive,Outstanding service and attention. I highly recommend this facility.
+343,80,Female,Checkup,46,5,positive,I had an excellent experience. The staff was friendly and professional.
+344,53,Female,New Consultation,11,1,positive,Outstanding service and attention. I highly recommend this facility.
+345,62,Female,Follow-up,17,5,negative,"The experience was below my expectations, and the care was subpar."
+346,26,Female,Checkup,19,2,positive,I had an excellent experience. The staff was friendly and professional.
+347,59,Female,Checkup,30,3,neutral,"It was an okay experience, neither good nor bad."
+348,67,Female,Follow-up,104,4,neutral,"The visit met my expectations, but there is room for improvement."
+349,35,Male,New Consultation,78,1,positive,I had an excellent experience. The staff was friendly and professional.
+350,86,Male,Checkup,103,4,negative,I am very disappointed with the long wait times and poor communication.
+351,38,Male,Routine Visit,19,3,neutral,"Neutral experience, the service was acceptable."
+352,49,Male,Emergency,77,5,neutral,"It was an okay experience, neither good nor bad."
+353,42,Female,Follow-up,11,5,neutral,"The visit met my expectations, but there is room for improvement."
+354,59,Female,Routine Visit,43,1,neutral,"The visit met my expectations, but there is room for improvement."
+355,41,Female,Follow-up,72,2,positive,Outstanding service and attention. I highly recommend this facility.
+356,49,Male,Routine Visit,114,4,positive,"Great service, I felt well cared for and appreciated."
+357,53,Male,Checkup,12,1,positive,The visit was smooth and the doctor was very helpful.
+358,58,Male,New Consultation,17,1,negative,"Terrible service, I did not feel cared for at all."
+359,77,Male,New Consultation,31,5,positive,The visit was smooth and the doctor was very helpful.
+360,89,Female,Follow-up,48,5,positive,Outstanding service and attention. I highly recommend this facility.
+361,87,Female,New Consultation,6,1,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+362,47,Female,New Consultation,62,4,negative,"The experience was below my expectations, and the care was subpar."
+363,48,Male,Checkup,59,2,positive,I had an excellent experience. The staff was friendly and professional.
+364,72,Female,New Consultation,21,4,negative,I am very disappointed with the long wait times and poor communication.
+365,20,Female,Routine Visit,27,4,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+366,22,Female,New Consultation,69,1,neutral,"The visit met my expectations, but there is room for improvement."
+367,87,Female,Emergency,76,1,neutral,"The service was average, nothing extraordinary."
+368,55,Female,Emergency,18,4,positive,I had an excellent experience. The staff was friendly and professional.
+369,83,Male,Routine Visit,6,3,positive,The visit was smooth and the doctor was very helpful.
+370,82,Male,Follow-up,56,2,neutral,"It was an okay experience, neither good nor bad."
+371,72,Female,Follow-up,26,3,neutral,"The visit met my expectations, but there is room for improvement."
+372,77,Male,New Consultation,110,4,negative,"Terrible service, I did not feel cared for at all."
+373,59,Female,Emergency,49,3,neutral,I received standard care; everything was as expected.
+374,47,Female,Follow-up,84,4,negative,Very unhappy with the service and the overall experience.
+375,32,Male,Follow-up,70,3,neutral,I received standard care; everything was as expected.
+376,37,Female,Emergency,29,2,positive,Outstanding service and attention. I highly recommend this facility.
+377,71,Male,New Consultation,99,1,neutral,"The service was average, nothing extraordinary."
+378,71,Female,Routine Visit,56,3,negative,I am very disappointed with the long wait times and poor communication.
+379,23,Male,Routine Visit,102,5,positive,I had an excellent experience. The staff was friendly and professional.
+380,42,Male,New Consultation,49,4,neutral,"It was an okay experience, neither good nor bad."
+381,30,Male,New Consultation,22,5,positive,Outstanding service and attention. I highly recommend this facility.
+382,23,Female,Routine Visit,47,2,neutral,"The service was average, nothing extraordinary."
+383,48,Male,Routine Visit,87,2,positive,The visit was smooth and the doctor was very helpful.
+384,19,Female,Follow-up,54,5,neutral,"Neutral experience, the service was acceptable."
+385,26,Male,Routine Visit,77,4,positive,Outstanding service and attention. I highly recommend this facility.
+386,24,Female,New Consultation,101,4,neutral,"It was an okay experience, neither good nor bad."
+387,57,Male,Routine Visit,107,4,positive,I am extremely satisfied with the quality of care.
+388,69,Female,New Consultation,42,2,positive,"Great service, I felt well cared for and appreciated."
+389,80,Female,Routine Visit,103,3,positive,I had an excellent experience. The staff was friendly and professional.
+390,31,Male,Routine Visit,90,5,positive,The visit was smooth and the doctor was very helpful.
+391,19,Female,Follow-up,25,5,neutral,"The visit met my expectations, but there is room for improvement."
+392,75,Female,Routine Visit,69,5,positive,I had an excellent experience. The staff was friendly and professional.
+393,70,Female,Routine Visit,49,4,positive,The visit was smooth and the doctor was very helpful.
+394,77,Male,Routine Visit,56,5,positive,"Great service, I felt well cared for and appreciated."
+395,85,Female,New Consultation,116,4,neutral,"It was an okay experience, neither good nor bad."
+396,69,Male,Emergency,25,2,negative,I am very disappointed with the long wait times and poor communication.
+397,81,Male,Checkup,45,1,negative,"The experience was below my expectations, and the care was subpar."
+398,65,Male,Checkup,14,2,positive,Outstanding service and attention. I highly recommend this facility.
+399,77,Female,Routine Visit,32,3,positive,I am extremely satisfied with the quality of care.
+400,25,Male,Checkup,83,1,positive,Outstanding service and attention. I highly recommend this facility.
+401,62,Male,Routine Visit,36,4,neutral,"It was an okay experience, neither good nor bad."
+402,25,Male,Checkup,91,3,neutral,"It was an okay experience, neither good nor bad."
+403,68,Female,Follow-up,28,1,negative,"Terrible service, I did not feel cared for at all."
+404,38,Female,Emergency,35,4,positive,"Great service, I felt well cared for and appreciated."
+405,32,Male,Follow-up,32,3,positive,I am extremely satisfied with the quality of care.
+406,22,Male,Emergency,42,4,negative,I am very disappointed with the long wait times and poor communication.
+407,25,Female,Checkup,77,2,neutral,"It was an okay experience, neither good nor bad."
+408,84,Male,New Consultation,72,1,neutral,"The visit met my expectations, but there is room for improvement."
+409,79,Male,Emergency,14,5,positive,I am extremely satisfied with the quality of care.
+410,19,Female,Routine Visit,57,4,positive,"Great service, I felt well cared for and appreciated."
+411,27,Male,Checkup,44,2,positive,The visit was smooth and the doctor was very helpful.
+412,42,Female,Follow-up,82,4,positive,"Great service, I felt well cared for and appreciated."
+413,39,Female,New Consultation,89,4,positive,I had an excellent experience. The staff was friendly and professional.
+414,63,Male,Routine Visit,103,2,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+415,56,Male,New Consultation,109,2,neutral,"The service was average, nothing extraordinary."
+416,38,Female,New Consultation,100,3,positive,I am extremely satisfied with the quality of care.
+417,39,Male,Checkup,26,4,positive,"Great service, I felt well cared for and appreciated."
+418,19,Male,Routine Visit,83,4,negative,"Terrible service, I did not feel cared for at all."
+419,40,Female,New Consultation,81,3,neutral,I received standard care; everything was as expected.
+420,73,Male,Follow-up,27,5,positive,The visit was smooth and the doctor was very helpful.
+421,42,Female,Routine Visit,115,2,neutral,"The visit met my expectations, but there is room for improvement."
+422,89,Male,New Consultation,9,3,negative,"Terrible service, I did not feel cared for at all."
+423,81,Female,Emergency,111,1,neutral,"It was an okay experience, neither good nor bad."
+424,63,Male,Follow-up,31,2,positive,I had an excellent experience. The staff was friendly and professional.
+425,30,Male,New Consultation,40,2,neutral,"It was an okay experience, neither good nor bad."
+426,71,Female,Checkup,82,1,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+427,37,Male,Follow-up,99,3,negative,"The experience was below my expectations, and the care was subpar."
+428,21,Male,Routine Visit,8,4,neutral,"The visit met my expectations, but there is room for improvement."
+429,43,Male,Routine Visit,58,5,positive,I had an excellent experience. The staff was friendly and professional.
+430,63,Female,New Consultation,61,5,positive,The visit was smooth and the doctor was very helpful.
+431,88,Female,Routine Visit,18,3,positive,The visit was smooth and the doctor was very helpful.
+432,75,Male,New Consultation,8,2,neutral,"Neutral experience, the service was acceptable."
+433,36,Male,New Consultation,64,3,positive,I am extremely satisfied with the quality of care.
+434,39,Female,Routine Visit,80,2,neutral,"Neutral experience, the service was acceptable."
+435,48,Female,Follow-up,52,5,positive,The visit was smooth and the doctor was very helpful.
+436,72,Male,Checkup,22,4,positive,I had an excellent experience. The staff was friendly and professional.
+437,64,Male,Checkup,49,1,positive,I had an excellent experience. The staff was friendly and professional.
+438,21,Female,Follow-up,19,4,positive,The visit was smooth and the doctor was very helpful.
+439,26,Female,Routine Visit,120,5,negative,"Terrible service, I did not feel cared for at all."
+440,20,Male,Follow-up,117,5,neutral,"Neutral experience, the service was acceptable."
+441,68,Male,Follow-up,46,3,positive,The visit was smooth and the doctor was very helpful.
+442,86,Male,Routine Visit,88,1,positive,I had an excellent experience. The staff was friendly and professional.
+443,81,Male,New Consultation,74,2,positive,I had an excellent experience. The staff was friendly and professional.
+444,56,Female,Follow-up,5,1,positive,Outstanding service and attention. I highly recommend this facility.
+445,58,Female,New Consultation,112,4,positive,I am extremely satisfied with the quality of care.
+446,41,Male,New Consultation,89,4,positive,The visit was smooth and the doctor was very helpful.
+447,24,Male,New Consultation,18,2,positive,The visit was smooth and the doctor was very helpful.
+448,71,Male,Emergency,93,5,positive,I am extremely satisfied with the quality of care.
+449,62,Female,Follow-up,88,2,negative,Very unhappy with the service and the overall experience.
+450,74,Male,New Consultation,54,1,neutral,"Neutral experience, the service was acceptable."
+451,87,Male,Emergency,36,3,negative,I am very disappointed with the long wait times and poor communication.
+452,32,Female,Routine Visit,46,2,positive,I am extremely satisfied with the quality of care.
+453,31,Male,Routine Visit,62,5,positive,Outstanding service and attention. I highly recommend this facility.
+454,20,Male,Emergency,41,1,positive,"Great service, I felt well cared for and appreciated."
+455,29,Male,Routine Visit,45,1,positive,The visit was smooth and the doctor was very helpful.
+456,85,Male,Emergency,75,1,neutral,"The service was average, nothing extraordinary."
+457,78,Male,Emergency,32,2,neutral,I received standard care; everything was as expected.
+458,56,Female,Checkup,21,2,positive,I had an excellent experience. The staff was friendly and professional.
+459,87,Female,Checkup,78,5,positive,Outstanding service and attention. I highly recommend this facility.
+460,39,Female,Checkup,70,2,positive,Outstanding service and attention. I highly recommend this facility.
+461,68,Male,New Consultation,92,4,positive,"Great service, I felt well cared for and appreciated."
+462,81,Male,Checkup,68,5,positive,The visit was smooth and the doctor was very helpful.
+463,85,Female,New Consultation,90,5,neutral,I received standard care; everything was as expected.
+464,31,Male,Routine Visit,109,2,neutral,"The service was average, nothing extraordinary."
+465,80,Female,Checkup,7,4,neutral,"The visit met my expectations, but there is room for improvement."
+466,23,Male,New Consultation,27,1,positive,Outstanding service and attention. I highly recommend this facility.
+467,60,Male,Routine Visit,55,3,positive,The visit was smooth and the doctor was very helpful.
+468,25,Female,New Consultation,96,1,neutral,"The service was average, nothing extraordinary."
+469,89,Male,Checkup,51,2,positive,The visit was smooth and the doctor was very helpful.
+470,87,Female,Emergency,11,3,positive,Outstanding service and attention. I highly recommend this facility.
+471,44,Female,Follow-up,44,1,neutral,"The visit met my expectations, but there is room for improvement."
+472,25,Male,New Consultation,52,3,positive,I am extremely satisfied with the quality of care.
+473,87,Female,Follow-up,36,1,negative,"The experience was below my expectations, and the care was subpar."
+474,63,Male,Checkup,67,5,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+475,38,Female,Routine Visit,38,4,negative,"The experience was below my expectations, and the care was subpar."
+476,76,Male,Follow-up,73,1,positive,Outstanding service and attention. I highly recommend this facility.
+477,85,Male,New Consultation,38,2,positive,"Great service, I felt well cared for and appreciated."
+478,22,Male,Routine Visit,96,5,positive,"Great service, I felt well cared for and appreciated."
+479,67,Female,Follow-up,64,4,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+480,83,Male,New Consultation,112,1,positive,I am extremely satisfied with the quality of care.
+481,20,Female,New Consultation,34,2,positive,"Great service, I felt well cared for and appreciated."
+482,45,Female,Emergency,66,1,positive,Outstanding service and attention. I highly recommend this facility.
+483,69,Female,Checkup,55,2,neutral,"Neutral experience, the service was acceptable."
+484,74,Male,Checkup,73,4,positive,The visit was smooth and the doctor was very helpful.
+485,32,Male,Follow-up,37,4,neutral,I received standard care; everything was as expected.
+486,51,Female,Follow-up,44,4,neutral,"Neutral experience, the service was acceptable."
+487,87,Male,New Consultation,5,3,neutral,"The service was average, nothing extraordinary."
+488,42,Male,Routine Visit,103,1,positive,The visit was smooth and the doctor was very helpful.
+489,63,Female,New Consultation,80,1,neutral,"The visit met my expectations, but there is room for improvement."
+490,23,Male,Follow-up,27,3,positive,"Great service, I felt well cared for and appreciated."
+491,63,Female,New Consultation,76,3,positive,I am extremely satisfied with the quality of care.
+492,42,Female,Emergency,106,1,positive,Outstanding service and attention. I highly recommend this facility.
+493,68,Male,Emergency,23,1,negative,Very unhappy with the service and the overall experience.
+494,62,Male,Checkup,23,4,positive,The visit was smooth and the doctor was very helpful.
+495,55,Male,Routine Visit,40,1,positive,I am extremely satisfied with the quality of care.
+496,81,Male,New Consultation,93,3,positive,I am extremely satisfied with the quality of care.
+497,76,Female,Checkup,72,3,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+498,25,Female,Checkup,114,1,negative,"Terrible service, I did not feel cared for at all."
+499,72,Female,Routine Visit,66,1,positive,Outstanding service and attention. I highly recommend this facility.
+500,29,Male,Follow-up,68,2,neutral,I received standard care; everything was as expected.
+501,38,Male,New Consultation,105,3,positive,"Great service, I felt well cared for and appreciated."
+502,78,Male,New Consultation,39,1,positive,I had an excellent experience. The staff was friendly and professional.
+503,82,Female,Routine Visit,91,4,negative,"The experience was below my expectations, and the care was subpar."
+504,63,Male,Checkup,23,2,positive,Outstanding service and attention. I highly recommend this facility.
+505,39,Female,Routine Visit,55,4,neutral,"Neutral experience, the service was acceptable."
+506,68,Female,New Consultation,32,4,positive,The visit was smooth and the doctor was very helpful.
+507,62,Male,New Consultation,70,2,positive,I had an excellent experience. The staff was friendly and professional.
+508,18,Female,Checkup,86,1,positive,"Great service, I felt well cared for and appreciated."
+509,23,Female,Follow-up,12,3,positive,The visit was smooth and the doctor was very helpful.
+510,82,Male,Routine Visit,113,1,neutral,"It was an okay experience, neither good nor bad."
+511,31,Male,Routine Visit,88,1,neutral,"It was an okay experience, neither good nor bad."
+512,66,Female,Checkup,66,3,negative,"Terrible service, I did not feel cared for at all."
+513,56,Male,Routine Visit,53,2,positive,I had an excellent experience. The staff was friendly and professional.
+514,26,Female,Routine Visit,53,1,negative,I am very disappointed with the long wait times and poor communication.
+515,38,Male,Follow-up,43,1,positive,"Great service, I felt well cared for and appreciated."
+516,81,Male,Follow-up,15,5,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+517,62,Male,New Consultation,23,4,negative,Very unhappy with the service and the overall experience.
+518,78,Male,Routine Visit,16,5,positive,I had an excellent experience. The staff was friendly and professional.
+519,62,Female,New Consultation,73,1,neutral,I received standard care; everything was as expected.
+520,47,Male,Checkup,51,4,neutral,I received standard care; everything was as expected.
+521,83,Female,Checkup,40,2,positive,Outstanding service and attention. I highly recommend this facility.
+522,45,Female,New Consultation,117,1,positive,"Great service, I felt well cared for and appreciated."
+523,32,Male,Emergency,67,5,neutral,I received standard care; everything was as expected.
+524,83,Male,Follow-up,81,2,neutral,I received standard care; everything was as expected.
+525,68,Female,Checkup,43,4,positive,I am extremely satisfied with the quality of care.
+526,87,Male,Routine Visit,6,5,positive,"Great service, I felt well cared for and appreciated."
+527,33,Female,Emergency,85,1,positive,"Great service, I felt well cared for and appreciated."
+528,52,Male,Checkup,59,5,positive,I had an excellent experience. The staff was friendly and professional.
+529,79,Male,Checkup,27,1,positive,I had an excellent experience. The staff was friendly and professional.
+530,38,Female,Follow-up,22,4,neutral,I received standard care; everything was as expected.
+531,70,Female,Emergency,34,4,positive,"Great service, I felt well cared for and appreciated."
+532,49,Male,Follow-up,32,4,negative,"Terrible service, I did not feel cared for at all."
+533,80,Male,Follow-up,52,2,positive,Outstanding service and attention. I highly recommend this facility.
+534,50,Female,Emergency,60,4,positive,I am extremely satisfied with the quality of care.
+535,85,Male,Checkup,69,4,positive,I had an excellent experience. The staff was friendly and professional.
+536,77,Female,New Consultation,39,3,positive,Outstanding service and attention. I highly recommend this facility.
+537,28,Male,Checkup,42,5,neutral,"It was an okay experience, neither good nor bad."
+538,65,Female,New Consultation,106,1,positive,I had an excellent experience. The staff was friendly and professional.
+539,67,Male,Follow-up,71,3,positive,I am extremely satisfied with the quality of care.
+540,43,Male,Follow-up,68,3,positive,"Great service, I felt well cared for and appreciated."
+541,67,Female,Follow-up,19,5,positive,I am extremely satisfied with the quality of care.
+542,54,Female,New Consultation,105,3,negative,Very unhappy with the service and the overall experience.
+543,85,Female,New Consultation,77,1,positive,Outstanding service and attention. I highly recommend this facility.
+544,76,Male,New Consultation,21,5,negative,Very unhappy with the service and the overall experience.
+545,39,Female,Routine Visit,41,1,neutral,"The visit met my expectations, but there is room for improvement."
+546,51,Male,Routine Visit,91,3,positive,I am extremely satisfied with the quality of care.
+547,49,Male,Follow-up,117,5,positive,Outstanding service and attention. I highly recommend this facility.
+548,38,Female,Follow-up,107,4,positive,Outstanding service and attention. I highly recommend this facility.
+549,80,Female,Routine Visit,103,5,neutral,I received standard care; everything was as expected.
+550,28,Female,Follow-up,21,3,negative,Very unhappy with the service and the overall experience.
+551,41,Female,Follow-up,41,5,positive,I am extremely satisfied with the quality of care.
+552,22,Male,Routine Visit,40,3,positive,"Great service, I felt well cared for and appreciated."
+553,28,Female,Routine Visit,51,4,positive,I am extremely satisfied with the quality of care.
+554,28,Male,New Consultation,9,1,neutral,I received standard care; everything was as expected.
+555,58,Female,Emergency,16,1,negative,"The experience was below my expectations, and the care was subpar."
+556,43,Female,New Consultation,112,4,negative,"Terrible service, I did not feel cared for at all."
+557,72,Female,New Consultation,106,3,positive,The visit was smooth and the doctor was very helpful.
+558,40,Male,Follow-up,79,1,positive,Outstanding service and attention. I highly recommend this facility.
+559,68,Male,Follow-up,86,4,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+560,21,Male,Routine Visit,39,1,positive,"Great service, I felt well cared for and appreciated."
+561,62,Male,Checkup,117,1,negative,"The experience was below my expectations, and the care was subpar."
+562,36,Male,Follow-up,63,5,neutral,I received standard care; everything was as expected.
+563,78,Male,Emergency,100,5,positive,I had an excellent experience. The staff was friendly and professional.
+564,84,Female,Emergency,46,5,positive,The visit was smooth and the doctor was very helpful.
+565,83,Male,Follow-up,60,1,neutral,"It was an okay experience, neither good nor bad."
+566,52,Male,Emergency,12,2,negative,"The experience was below my expectations, and the care was subpar."
+567,88,Female,Follow-up,69,4,negative,"The experience was below my expectations, and the care was subpar."
+568,18,Male,Routine Visit,17,5,negative,"The experience was below my expectations, and the care was subpar."
+569,18,Female,Follow-up,70,1,neutral,"Neutral experience, the service was acceptable."
+570,21,Female,Follow-up,103,3,neutral,"The service was average, nothing extraordinary."
+571,62,Female,Emergency,49,5,positive,"Great service, I felt well cared for and appreciated."
+572,33,Female,Checkup,38,2,positive,"Great service, I felt well cared for and appreciated."
+573,77,Female,Emergency,94,5,neutral,"It was an okay experience, neither good nor bad."
+574,48,Female,Emergency,43,3,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+575,72,Male,Routine Visit,107,5,negative,"Terrible service, I did not feel cared for at all."
+576,34,Male,Routine Visit,17,5,positive,"Great service, I felt well cared for and appreciated."
+577,36,Male,Checkup,90,1,neutral,"The service was average, nothing extraordinary."
+578,49,Female,Emergency,14,4,neutral,I received standard care; everything was as expected.
+579,69,Female,Emergency,18,2,neutral,I received standard care; everything was as expected.
+580,70,Female,New Consultation,81,3,neutral,"The visit met my expectations, but there is room for improvement."
+581,29,Male,Emergency,86,2,neutral,"Neutral experience, the service was acceptable."
+582,66,Male,Checkup,99,1,neutral,I received standard care; everything was as expected.
+583,43,Female,Checkup,91,2,positive,I am extremely satisfied with the quality of care.
+584,23,Male,New Consultation,68,5,negative,I am very disappointed with the long wait times and poor communication.
+585,82,Male,Follow-up,13,3,negative,"Terrible service, I did not feel cared for at all."
+586,85,Female,Emergency,19,3,positive,I am extremely satisfied with the quality of care.
+587,66,Female,New Consultation,55,5,positive,I am extremely satisfied with the quality of care.
+588,46,Male,New Consultation,95,1,neutral,"Neutral experience, the service was acceptable."
+589,27,Male,Routine Visit,25,3,neutral,"The service was average, nothing extraordinary."
+590,50,Female,New Consultation,15,1,neutral,"Neutral experience, the service was acceptable."
+591,42,Female,Checkup,25,4,neutral,I received standard care; everything was as expected.
+592,29,Male,Emergency,21,5,positive,I am extremely satisfied with the quality of care.
+593,45,Female,Checkup,103,2,neutral,"The service was average, nothing extraordinary."
+594,88,Male,Routine Visit,86,5,negative,"The experience was below my expectations, and the care was subpar."
+595,48,Female,Checkup,77,3,neutral,"The visit met my expectations, but there is room for improvement."
+596,62,Male,Emergency,13,4,neutral,I received standard care; everything was as expected.
+597,45,Female,New Consultation,48,5,neutral,I received standard care; everything was as expected.
+598,71,Female,Checkup,104,5,positive,Outstanding service and attention. I highly recommend this facility.
+599,30,Male,Checkup,58,2,neutral,"Neutral experience, the service was acceptable."
+600,64,Male,Emergency,50,5,positive,Outstanding service and attention. I highly recommend this facility.
+601,41,Female,Checkup,104,2,positive,"Great service, I felt well cared for and appreciated."
+602,20,Male,Checkup,16,4,positive,I am extremely satisfied with the quality of care.
+603,60,Male,New Consultation,64,2,neutral,"It was an okay experience, neither good nor bad."
+604,45,Female,Checkup,108,4,negative,"The experience was below my expectations, and the care was subpar."
+605,44,Female,Routine Visit,46,3,positive,I am extremely satisfied with the quality of care.
+606,51,Male,Routine Visit,29,1,neutral,I received standard care; everything was as expected.
+607,24,Female,Checkup,16,3,neutral,"The service was average, nothing extraordinary."
+608,24,Female,Follow-up,77,3,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+609,89,Male,Follow-up,8,3,neutral,"The visit met my expectations, but there is room for improvement."
+610,46,Female,Emergency,32,5,neutral,I received standard care; everything was as expected.
+611,61,Female,New Consultation,94,1,positive,"Great service, I felt well cared for and appreciated."
+612,73,Female,New Consultation,54,3,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+613,45,Female,Checkup,21,3,neutral,"It was an okay experience, neither good nor bad."
+614,88,Female,Checkup,30,1,neutral,"Neutral experience, the service was acceptable."
+615,62,Male,Follow-up,81,5,neutral,"Neutral experience, the service was acceptable."
+616,85,Male,New Consultation,79,3,negative,I am very disappointed with the long wait times and poor communication.
+617,64,Female,New Consultation,61,1,neutral,I received standard care; everything was as expected.
+618,43,Male,Emergency,9,4,neutral,"Neutral experience, the service was acceptable."
+619,71,Male,Emergency,42,3,neutral,"Neutral experience, the service was acceptable."
+620,78,Female,Routine Visit,50,5,neutral,"The service was average, nothing extraordinary."
+621,79,Female,Emergency,82,2,positive,I had an excellent experience. The staff was friendly and professional.
+622,20,Female,Routine Visit,12,4,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+623,50,Male,Follow-up,81,2,negative,"Terrible service, I did not feel cared for at all."
+624,45,Female,Checkup,20,4,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+625,65,Female,Follow-up,94,1,positive,"Great service, I felt well cared for and appreciated."
+626,35,Male,Emergency,30,4,negative,I am very disappointed with the long wait times and poor communication.
+627,46,Male,Routine Visit,102,1,negative,"The experience was below my expectations, and the care was subpar."
+628,83,Female,Routine Visit,110,4,positive,I am extremely satisfied with the quality of care.
+629,82,Male,Checkup,63,4,neutral,"The visit met my expectations, but there is room for improvement."
+630,61,Male,Routine Visit,78,4,positive,"Great service, I felt well cared for and appreciated."
+631,45,Female,Follow-up,89,2,positive,I am extremely satisfied with the quality of care.
+632,83,Male,Follow-up,26,5,positive,The visit was smooth and the doctor was very helpful.
+633,84,Female,Routine Visit,49,2,negative,"The experience was below my expectations, and the care was subpar."
+634,71,Female,Follow-up,38,3,positive,I am extremely satisfied with the quality of care.
+635,88,Male,Follow-up,88,4,neutral,"The visit met my expectations, but there is room for improvement."
+636,52,Male,Checkup,107,3,positive,I am extremely satisfied with the quality of care.
+637,34,Female,Routine Visit,120,5,neutral,"The visit met my expectations, but there is room for improvement."
+638,85,Male,Emergency,5,2,negative,I am very disappointed with the long wait times and poor communication.
+639,37,Female,Emergency,63,3,neutral,I received standard care; everything was as expected.
+640,22,Female,Checkup,21,2,neutral,"The service was average, nothing extraordinary."
+641,58,Male,New Consultation,73,3,neutral,"Neutral experience, the service was acceptable."
+642,38,Male,New Consultation,30,3,positive,I had an excellent experience. The staff was friendly and professional.
+643,77,Male,Emergency,44,5,positive,The visit was smooth and the doctor was very helpful.
+644,21,Male,Emergency,88,2,positive,"Great service, I felt well cared for and appreciated."
+645,25,Male,Follow-up,116,4,neutral,"The service was average, nothing extraordinary."
+646,85,Female,Follow-up,41,1,positive,I had an excellent experience. The staff was friendly and professional.
+647,41,Male,Routine Visit,40,2,neutral,"The service was average, nothing extraordinary."
+648,41,Female,New Consultation,71,2,negative,"Terrible service, I did not feel cared for at all."
+649,70,Female,New Consultation,27,5,positive,"Great service, I felt well cared for and appreciated."
+650,70,Female,Checkup,61,5,positive,I had an excellent experience. The staff was friendly and professional.
+651,71,Female,Routine Visit,61,2,positive,Outstanding service and attention. I highly recommend this facility.
+652,55,Male,Routine Visit,88,3,negative,"Terrible service, I did not feel cared for at all."
+653,64,Female,New Consultation,80,3,neutral,"It was an okay experience, neither good nor bad."
+654,58,Male,Routine Visit,91,2,positive,"Great service, I felt well cared for and appreciated."
+655,79,Male,Checkup,116,3,positive,I am extremely satisfied with the quality of care.
+656,74,Female,Follow-up,51,4,negative,I am very disappointed with the long wait times and poor communication.
+657,39,Male,Routine Visit,76,1,positive,Outstanding service and attention. I highly recommend this facility.
+658,48,Female,Emergency,36,3,positive,"Great service, I felt well cared for and appreciated."
+659,26,Male,Follow-up,100,2,positive,I am extremely satisfied with the quality of care.
+660,34,Female,New Consultation,115,1,positive,The visit was smooth and the doctor was very helpful.
+661,82,Male,Checkup,55,4,negative,"The experience was below my expectations, and the care was subpar."
+662,83,Female,Follow-up,74,1,positive,"Great service, I felt well cared for and appreciated."
+663,56,Male,Checkup,85,2,negative,Very unhappy with the service and the overall experience.
+664,30,Female,New Consultation,56,5,negative,Very unhappy with the service and the overall experience.
+665,80,Male,New Consultation,116,5,negative,I am very disappointed with the long wait times and poor communication.
+666,82,Male,Follow-up,94,4,neutral,"It was an okay experience, neither good nor bad."
+667,85,Female,Checkup,87,3,negative,"The experience was below my expectations, and the care was subpar."
+668,75,Male,Emergency,65,4,neutral,"The service was average, nothing extraordinary."
+669,46,Male,Checkup,101,1,neutral,"Neutral experience, the service was acceptable."
+670,82,Male,Follow-up,84,5,negative,I am very disappointed with the long wait times and poor communication.
+671,79,Male,Follow-up,80,3,negative,"The experience was below my expectations, and the care was subpar."
+672,37,Male,New Consultation,48,2,negative,Very unhappy with the service and the overall experience.
+673,74,Male,Follow-up,118,3,neutral,I received standard care; everything was as expected.
+674,89,Female,Checkup,117,4,positive,I am extremely satisfied with the quality of care.
+675,22,Male,New Consultation,21,1,positive,"Great service, I felt well cared for and appreciated."
+676,45,Female,Routine Visit,63,1,positive,I had an excellent experience. The staff was friendly and professional.
+677,36,Female,Routine Visit,70,4,negative,Very unhappy with the service and the overall experience.
+678,71,Male,Follow-up,58,5,positive,"Great service, I felt well cared for and appreciated."
+679,46,Female,Emergency,67,2,negative,I am very disappointed with the long wait times and poor communication.
+680,25,Female,Routine Visit,78,1,positive,The visit was smooth and the doctor was very helpful.
+681,75,Male,New Consultation,66,1,neutral,"Neutral experience, the service was acceptable."
+682,58,Male,Follow-up,53,4,positive,I had an excellent experience. The staff was friendly and professional.
+683,20,Female,Emergency,93,3,positive,Outstanding service and attention. I highly recommend this facility.
+684,41,Female,Emergency,47,3,positive,I had an excellent experience. The staff was friendly and professional.
+685,37,Male,Checkup,58,4,neutral,"The visit met my expectations, but there is room for improvement."
+686,83,Female,Routine Visit,38,3,positive,Outstanding service and attention. I highly recommend this facility.
+687,44,Female,Checkup,101,1,neutral,I received standard care; everything was as expected.
+688,76,Female,Emergency,33,4,negative,"The experience was below my expectations, and the care was subpar."
+689,43,Male,Emergency,57,3,neutral,"The service was average, nothing extraordinary."
+690,65,Male,Follow-up,26,4,neutral,"Neutral experience, the service was acceptable."
+691,42,Male,New Consultation,69,1,positive,The visit was smooth and the doctor was very helpful.
+692,24,Male,Checkup,40,3,negative,I am very disappointed with the long wait times and poor communication.
+693,53,Male,Routine Visit,50,2,neutral,I received standard care; everything was as expected.
+694,23,Female,Checkup,78,2,neutral,I received standard care; everything was as expected.
+695,67,Male,New Consultation,89,1,positive,I had an excellent experience. The staff was friendly and professional.
+696,32,Female,Routine Visit,77,3,positive,I am extremely satisfied with the quality of care.
+697,34,Male,Checkup,45,2,neutral,"The visit met my expectations, but there is room for improvement."
+698,57,Male,Checkup,27,4,positive,I am extremely satisfied with the quality of care.
+699,80,Male,Checkup,114,5,positive,"Great service, I felt well cared for and appreciated."
+700,51,Female,Follow-up,65,2,neutral,I received standard care; everything was as expected.
+701,75,Male,Follow-up,20,2,positive,"Great service, I felt well cared for and appreciated."
+702,27,Female,Follow-up,40,3,positive,Outstanding service and attention. I highly recommend this facility.
+703,63,Male,Emergency,106,1,positive,The visit was smooth and the doctor was very helpful.
+704,25,Male,Emergency,85,1,positive,Outstanding service and attention. I highly recommend this facility.
+705,56,Male,New Consultation,32,1,negative,Very unhappy with the service and the overall experience.
+706,26,Female,Follow-up,89,2,neutral,I received standard care; everything was as expected.
+707,77,Female,Emergency,44,4,neutral,I received standard care; everything was as expected.
+708,54,Male,New Consultation,22,2,neutral,I received standard care; everything was as expected.
+709,28,Female,Checkup,81,4,neutral,"Neutral experience, the service was acceptable."
+710,24,Male,Follow-up,58,4,positive,The visit was smooth and the doctor was very helpful.
+711,18,Male,Follow-up,82,2,positive,The visit was smooth and the doctor was very helpful.
+712,55,Male,Routine Visit,9,1,positive,"Great service, I felt well cared for and appreciated."
+713,38,Female,Follow-up,113,4,positive,I had an excellent experience. The staff was friendly and professional.
+714,85,Male,Checkup,72,4,positive,The visit was smooth and the doctor was very helpful.
+715,73,Female,Checkup,25,5,positive,I am extremely satisfied with the quality of care.
+716,69,Female,Checkup,113,5,positive,"Great service, I felt well cared for and appreciated."
+717,66,Female,Emergency,43,1,positive,I am extremely satisfied with the quality of care.
+718,78,Male,Follow-up,113,3,positive,Outstanding service and attention. I highly recommend this facility.
+719,58,Female,Routine Visit,46,1,positive,Outstanding service and attention. I highly recommend this facility.
+720,84,Female,Checkup,90,1,positive,I am extremely satisfied with the quality of care.
+721,54,Male,Routine Visit,36,4,positive,The visit was smooth and the doctor was very helpful.
+722,40,Male,Checkup,108,5,neutral,"The service was average, nothing extraordinary."
+723,23,Female,Emergency,98,1,positive,I am extremely satisfied with the quality of care.
+724,49,Female,Follow-up,82,2,positive,The visit was smooth and the doctor was very helpful.
+725,53,Female,Checkup,110,4,positive,"Great service, I felt well cared for and appreciated."
+726,56,Male,Follow-up,19,4,neutral,I received standard care; everything was as expected.
+727,26,Male,Checkup,66,1,neutral,"It was an okay experience, neither good nor bad."
+728,57,Male,Emergency,69,5,neutral,"The visit met my expectations, but there is room for improvement."
+729,30,Female,Checkup,38,5,neutral,"The visit met my expectations, but there is room for improvement."
+730,65,Male,Routine Visit,68,5,positive,The visit was smooth and the doctor was very helpful.
+731,43,Male,Routine Visit,73,2,negative,"The experience was below my expectations, and the care was subpar."
+732,24,Female,Checkup,107,5,neutral,"Neutral experience, the service was acceptable."
+733,79,Male,Follow-up,29,3,positive,The visit was smooth and the doctor was very helpful.
+734,46,Male,Follow-up,36,2,positive,Outstanding service and attention. I highly recommend this facility.
+735,42,Female,New Consultation,77,1,positive,I had an excellent experience. The staff was friendly and professional.
+736,58,Male,New Consultation,55,1,neutral,"Neutral experience, the service was acceptable."
+737,46,Male,Follow-up,70,1,negative,"Terrible service, I did not feel cared for at all."
+738,20,Male,Routine Visit,50,1,negative,I am very disappointed with the long wait times and poor communication.
+739,68,Female,Emergency,100,4,positive,"Great service, I felt well cared for and appreciated."
+740,53,Male,New Consultation,120,1,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+741,83,Male,Routine Visit,83,4,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+742,84,Male,Follow-up,58,3,neutral,"Neutral experience, the service was acceptable."
+743,21,Male,New Consultation,120,3,neutral,"It was an okay experience, neither good nor bad."
+744,47,Male,Emergency,66,1,positive,I am extremely satisfied with the quality of care.
+745,48,Female,Emergency,65,1,neutral,I received standard care; everything was as expected.
+746,75,Male,Routine Visit,66,2,neutral,I received standard care; everything was as expected.
+747,81,Female,Routine Visit,63,4,positive,I had an excellent experience. The staff was friendly and professional.
+748,23,Male,Emergency,21,3,positive,I had an excellent experience. The staff was friendly and professional.
+749,53,Female,Routine Visit,90,2,positive,The visit was smooth and the doctor was very helpful.
+750,78,Male,Follow-up,58,3,positive,"Great service, I felt well cared for and appreciated."
+751,76,Female,New Consultation,14,4,neutral,I received standard care; everything was as expected.
+752,19,Female,New Consultation,119,2,positive,"Great service, I felt well cared for and appreciated."
+753,79,Female,Checkup,66,1,positive,The visit was smooth and the doctor was very helpful.
+754,55,Male,Routine Visit,5,5,negative,Very unhappy with the service and the overall experience.
+755,38,Female,Routine Visit,31,4,negative,"The experience was below my expectations, and the care was subpar."
+756,70,Male,New Consultation,100,4,neutral,I received standard care; everything was as expected.
+757,50,Female,Checkup,41,5,negative,Very unhappy with the service and the overall experience.
+758,52,Male,Routine Visit,64,2,neutral,"Neutral experience, the service was acceptable."
+759,73,Female,Follow-up,108,5,positive,The visit was smooth and the doctor was very helpful.
+760,35,Female,Follow-up,101,5,positive,I am extremely satisfied with the quality of care.
+761,65,Male,New Consultation,16,3,negative,Very unhappy with the service and the overall experience.
+762,78,Female,Follow-up,113,3,positive,The visit was smooth and the doctor was very helpful.
+763,32,Female,Routine Visit,17,1,negative,"The experience was below my expectations, and the care was subpar."
+764,76,Male,Follow-up,58,3,positive,I am extremely satisfied with the quality of care.
+765,65,Male,Follow-up,90,2,neutral,"The visit met my expectations, but there is room for improvement."
+766,49,Male,Follow-up,62,3,negative,"The experience was below my expectations, and the care was subpar."
+767,86,Male,Routine Visit,14,3,neutral,"The visit met my expectations, but there is room for improvement."
+768,78,Male,Follow-up,47,2,neutral,"It was an okay experience, neither good nor bad."
+769,60,Male,New Consultation,52,3,negative,I am very disappointed with the long wait times and poor communication.
+770,28,Female,Emergency,59,4,neutral,"It was an okay experience, neither good nor bad."
+771,76,Male,Follow-up,25,4,positive,The visit was smooth and the doctor was very helpful.
+772,59,Female,Checkup,18,3,negative,I am very disappointed with the long wait times and poor communication.
+773,78,Female,Follow-up,59,2,positive,Outstanding service and attention. I highly recommend this facility.
+774,38,Female,Routine Visit,91,1,neutral,"It was an okay experience, neither good nor bad."
+775,71,Female,Follow-up,69,4,positive,"Great service, I felt well cared for and appreciated."
+776,39,Female,Emergency,51,1,negative,"Terrible service, I did not feel cared for at all."
+777,31,Female,New Consultation,54,1,neutral,I received standard care; everything was as expected.
+778,60,Male,New Consultation,44,4,negative,"The experience was below my expectations, and the care was subpar."
+779,20,Female,Emergency,98,5,positive,Outstanding service and attention. I highly recommend this facility.
+780,54,Male,Emergency,40,2,neutral,"Neutral experience, the service was acceptable."
+781,57,Male,New Consultation,12,5,positive,Outstanding service and attention. I highly recommend this facility.
+782,47,Male,New Consultation,120,3,positive,The visit was smooth and the doctor was very helpful.
+783,62,Male,Follow-up,57,1,negative,I am very disappointed with the long wait times and poor communication.
+784,54,Female,Checkup,115,1,positive,"Great service, I felt well cared for and appreciated."
+785,37,Female,Routine Visit,16,1,neutral,"The visit met my expectations, but there is room for improvement."
+786,59,Female,Routine Visit,23,3,neutral,"It was an okay experience, neither good nor bad."
+787,88,Female,Emergency,38,3,positive,The visit was smooth and the doctor was very helpful.
+788,27,Female,New Consultation,19,5,neutral,"It was an okay experience, neither good nor bad."
+789,54,Female,Checkup,44,4,positive,The visit was smooth and the doctor was very helpful.
+790,28,Female,Routine Visit,98,4,negative,I am very disappointed with the long wait times and poor communication.
+791,45,Male,New Consultation,17,4,positive,Outstanding service and attention. I highly recommend this facility.
+792,21,Male,Emergency,68,2,negative,"Terrible service, I did not feel cared for at all."
+793,28,Female,Routine Visit,68,2,neutral,"The visit met my expectations, but there is room for improvement."
+794,41,Male,New Consultation,116,4,positive,I had an excellent experience. The staff was friendly and professional.
+795,34,Male,Emergency,61,2,positive,I had an excellent experience. The staff was friendly and professional.
+796,26,Female,Routine Visit,93,2,neutral,"Neutral experience, the service was acceptable."
+797,57,Male,Emergency,19,5,negative,"The experience was below my expectations, and the care was subpar."
+798,26,Female,New Consultation,94,3,neutral,"It was an okay experience, neither good nor bad."
+799,80,Female,New Consultation,42,3,neutral,I received standard care; everything was as expected.
+800,65,Female,New Consultation,63,1,neutral,"The service was average, nothing extraordinary."
+801,30,Male,Checkup,117,5,neutral,"The service was average, nothing extraordinary."
+802,77,Female,New Consultation,43,1,neutral,"Neutral experience, the service was acceptable."
+803,76,Female,New Consultation,57,3,positive,The visit was smooth and the doctor was very helpful.
+804,39,Female,Routine Visit,42,1,neutral,I received standard care; everything was as expected.
+805,49,Male,Emergency,7,3,positive,I am extremely satisfied with the quality of care.
+806,76,Male,Routine Visit,73,4,neutral,I received standard care; everything was as expected.
+807,58,Male,Routine Visit,88,4,positive,The visit was smooth and the doctor was very helpful.
+808,59,Female,Checkup,24,4,neutral,"It was an okay experience, neither good nor bad."
+809,71,Female,Checkup,5,5,positive,I had an excellent experience. The staff was friendly and professional.
+810,75,Female,Emergency,95,5,negative,"The experience was below my expectations, and the care was subpar."
+811,89,Female,Follow-up,94,3,neutral,I received standard care; everything was as expected.
+812,45,Male,Routine Visit,20,2,neutral,"The service was average, nothing extraordinary."
+813,34,Female,Routine Visit,100,2,positive,I had an excellent experience. The staff was friendly and professional.
+814,30,Male,Routine Visit,98,5,positive,I am extremely satisfied with the quality of care.
+815,57,Male,New Consultation,19,1,positive,I am extremely satisfied with the quality of care.
+816,70,Male,New Consultation,34,1,negative,I am very disappointed with the long wait times and poor communication.
+817,26,Female,Checkup,48,3,neutral,"Neutral experience, the service was acceptable."
+818,26,Female,New Consultation,101,5,positive,I had an excellent experience. The staff was friendly and professional.
+819,74,Female,Follow-up,66,4,positive,"Great service, I felt well cared for and appreciated."
+820,59,Female,Follow-up,15,3,neutral,"It was an okay experience, neither good nor bad."
+821,49,Female,Routine Visit,89,5,negative,Very unhappy with the service and the overall experience.
+822,73,Female,Emergency,106,5,neutral,"The visit met my expectations, but there is room for improvement."
+823,71,Female,Checkup,53,3,positive,I had an excellent experience. The staff was friendly and professional.
+824,66,Male,Follow-up,70,3,neutral,"It was an okay experience, neither good nor bad."
+825,34,Female,Follow-up,60,4,negative,I am very disappointed with the long wait times and poor communication.
+826,54,Male,New Consultation,72,2,negative,Very unhappy with the service and the overall experience.
+827,53,Female,Routine Visit,56,2,neutral,I received standard care; everything was as expected.
+828,77,Female,Follow-up,62,4,positive,Outstanding service and attention. I highly recommend this facility.
+829,73,Male,New Consultation,5,2,positive,Outstanding service and attention. I highly recommend this facility.
+830,57,Male,New Consultation,76,2,negative,Very unhappy with the service and the overall experience.
+831,44,Male,New Consultation,35,5,positive,"Great service, I felt well cared for and appreciated."
+832,51,Male,Emergency,28,2,negative,Very unhappy with the service and the overall experience.
+833,37,Female,Emergency,87,3,positive,I am extremely satisfied with the quality of care.
+834,84,Female,Follow-up,84,1,positive,I am extremely satisfied with the quality of care.
+835,70,Female,Emergency,51,2,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+836,67,Female,New Consultation,91,4,positive,The visit was smooth and the doctor was very helpful.
+837,72,Female,Checkup,93,2,positive,Outstanding service and attention. I highly recommend this facility.
+838,38,Male,New Consultation,53,4,positive,I am extremely satisfied with the quality of care.
+839,79,Male,Checkup,120,5,positive,The visit was smooth and the doctor was very helpful.
+840,69,Male,Checkup,25,1,positive,Outstanding service and attention. I highly recommend this facility.
+841,87,Male,Follow-up,116,4,neutral,"Neutral experience, the service was acceptable."
+842,85,Male,Emergency,25,4,negative,I am very disappointed with the long wait times and poor communication.
+843,40,Female,Follow-up,44,2,neutral,"Neutral experience, the service was acceptable."
+844,69,Male,Follow-up,65,5,positive,I had an excellent experience. The staff was friendly and professional.
+845,70,Male,Routine Visit,60,3,negative,"Terrible service, I did not feel cared for at all."
+846,86,Male,Follow-up,116,2,neutral,"It was an okay experience, neither good nor bad."
+847,77,Male,Follow-up,96,4,positive,The visit was smooth and the doctor was very helpful.
+848,89,Male,Routine Visit,58,4,negative,I am very disappointed with the long wait times and poor communication.
+849,75,Male,Emergency,35,4,positive,"Great service, I felt well cared for and appreciated."
+850,18,Male,Routine Visit,115,1,positive,"Great service, I felt well cared for and appreciated."
+851,80,Female,Emergency,25,1,positive,"Great service, I felt well cared for and appreciated."
+852,25,Female,Checkup,21,2,positive,Outstanding service and attention. I highly recommend this facility.
+853,55,Male,Routine Visit,10,3,positive,I had an excellent experience. The staff was friendly and professional.
+854,89,Male,Routine Visit,31,5,positive,"Great service, I felt well cared for and appreciated."
+855,52,Female,Routine Visit,90,2,neutral,"The service was average, nothing extraordinary."
+856,51,Female,Routine Visit,94,4,positive,I am extremely satisfied with the quality of care.
+857,76,Female,Emergency,22,4,neutral,I received standard care; everything was as expected.
+858,31,Female,Routine Visit,11,4,positive,Outstanding service and attention. I highly recommend this facility.
+859,36,Male,Follow-up,115,4,neutral,I received standard care; everything was as expected.
+860,52,Male,New Consultation,104,3,positive,The visit was smooth and the doctor was very helpful.
+861,65,Female,Routine Visit,21,3,negative,I am very disappointed with the long wait times and poor communication.
+862,49,Female,Routine Visit,74,2,neutral,"It was an okay experience, neither good nor bad."
+863,54,Female,New Consultation,44,3,positive,The visit was smooth and the doctor was very helpful.
+864,33,Female,New Consultation,49,2,positive,The visit was smooth and the doctor was very helpful.
+865,83,Male,Follow-up,12,3,positive,I am extremely satisfied with the quality of care.
+866,62,Female,New Consultation,119,2,positive,I had an excellent experience. The staff was friendly and professional.
+867,47,Female,Emergency,118,5,neutral,"It was an okay experience, neither good nor bad."
+868,56,Female,Emergency,47,5,neutral,"The visit met my expectations, but there is room for improvement."
+869,23,Female,Emergency,114,4,positive,Outstanding service and attention. I highly recommend this facility.
+870,40,Female,Emergency,22,2,neutral,"It was an okay experience, neither good nor bad."
+871,23,Female,Follow-up,67,3,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+872,60,Male,New Consultation,67,4,positive,I had an excellent experience. The staff was friendly and professional.
+873,22,Female,Follow-up,26,1,positive,Outstanding service and attention. I highly recommend this facility.
+874,28,Male,Follow-up,110,3,negative,"Terrible service, I did not feel cared for at all."
+875,31,Male,Emergency,117,3,negative,"Terrible service, I did not feel cared for at all."
+876,40,Female,Follow-up,51,5,positive,The visit was smooth and the doctor was very helpful.
+877,47,Male,New Consultation,102,5,neutral,"It was an okay experience, neither good nor bad."
+878,42,Female,Emergency,114,2,positive,I had an excellent experience. The staff was friendly and professional.
+879,58,Male,Follow-up,120,2,positive,I had an excellent experience. The staff was friendly and professional.
+880,28,Male,Routine Visit,90,5,positive,"Great service, I felt well cared for and appreciated."
+881,81,Female,Emergency,80,1,positive,The visit was smooth and the doctor was very helpful.
+882,71,Male,Follow-up,20,1,positive,Outstanding service and attention. I highly recommend this facility.
+883,76,Female,Checkup,112,3,positive,Outstanding service and attention. I highly recommend this facility.
+884,65,Female,New Consultation,64,5,neutral,"The visit met my expectations, but there is room for improvement."
+885,19,Female,Follow-up,31,3,neutral,I received standard care; everything was as expected.
+886,89,Male,New Consultation,16,5,negative,I am very disappointed with the long wait times and poor communication.
+887,34,Male,Routine Visit,85,4,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+888,86,Female,New Consultation,32,5,neutral,"The visit met my expectations, but there is room for improvement."
+889,47,Male,Emergency,75,5,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+890,54,Male,Follow-up,19,4,neutral,"The visit met my expectations, but there is room for improvement."
+891,69,Male,Routine Visit,110,5,negative,Very unhappy with the service and the overall experience.
+892,44,Male,New Consultation,33,4,neutral,"Neutral experience, the service was acceptable."
+893,80,Female,Emergency,26,2,positive,I am extremely satisfied with the quality of care.
+894,47,Male,Follow-up,91,2,positive,I am extremely satisfied with the quality of care.
+895,79,Female,Routine Visit,104,4,negative,I am very disappointed with the long wait times and poor communication.
+896,53,Male,Follow-up,23,4,neutral,"Neutral experience, the service was acceptable."
+897,74,Female,Checkup,36,4,positive,I had an excellent experience. The staff was friendly and professional.
+898,22,Female,Follow-up,41,2,positive,I am extremely satisfied with the quality of care.
+899,61,Female,Routine Visit,46,1,positive,The visit was smooth and the doctor was very helpful.
+900,24,Female,Follow-up,110,3,neutral,"Neutral experience, the service was acceptable."
+901,78,Male,Follow-up,99,5,neutral,"The visit met my expectations, but there is room for improvement."
+902,76,Female,Emergency,6,2,positive,I had an excellent experience. The staff was friendly and professional.
+903,34,Female,Routine Visit,35,3,positive,I had an excellent experience. The staff was friendly and professional.
+904,28,Male,Routine Visit,8,2,neutral,"It was an okay experience, neither good nor bad."
+905,29,Male,Checkup,101,3,negative,Very unhappy with the service and the overall experience.
+906,82,Male,New Consultation,57,2,neutral,"Neutral experience, the service was acceptable."
+907,41,Female,New Consultation,23,2,positive,I had an excellent experience. The staff was friendly and professional.
+908,67,Male,Follow-up,113,3,positive,The visit was smooth and the doctor was very helpful.
+909,44,Male,Emergency,53,2,neutral,"Neutral experience, the service was acceptable."
+910,47,Female,New Consultation,29,5,positive,I had an excellent experience. The staff was friendly and professional.
+911,59,Female,Checkup,81,1,neutral,"It was an okay experience, neither good nor bad."
+912,64,Male,Routine Visit,26,1,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+913,44,Male,Emergency,36,2,neutral,"Neutral experience, the service was acceptable."
+914,29,Female,Checkup,80,2,positive,I am extremely satisfied with the quality of care.
+915,65,Female,New Consultation,70,1,neutral,"The visit met my expectations, but there is room for improvement."
+916,53,Female,Follow-up,6,1,negative,"Terrible service, I did not feel cared for at all."
+917,46,Male,New Consultation,105,4,positive,Outstanding service and attention. I highly recommend this facility.
+918,41,Male,Emergency,114,5,neutral,I received standard care; everything was as expected.
+919,31,Female,Emergency,80,4,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+920,39,Female,Routine Visit,104,1,positive,I had an excellent experience. The staff was friendly and professional.
+921,62,Female,New Consultation,22,3,positive,I am extremely satisfied with the quality of care.
+922,33,Male,Routine Visit,72,5,neutral,"The visit met my expectations, but there is room for improvement."
+923,87,Female,Checkup,113,5,positive,I am extremely satisfied with the quality of care.
+924,49,Male,New Consultation,21,1,positive,The visit was smooth and the doctor was very helpful.
+925,61,Female,Routine Visit,113,3,positive,The visit was smooth and the doctor was very helpful.
+926,60,Male,Routine Visit,35,3,positive,I had an excellent experience. The staff was friendly and professional.
+927,71,Female,Routine Visit,88,3,negative,"Terrible service, I did not feel cared for at all."
+928,46,Female,Checkup,99,2,neutral,"The visit met my expectations, but there is room for improvement."
+929,89,Male,Checkup,88,4,positive,I am extremely satisfied with the quality of care.
+930,56,Male,Follow-up,33,2,positive,I am extremely satisfied with the quality of care.
+931,37,Female,Follow-up,69,2,positive,The visit was smooth and the doctor was very helpful.
+932,18,Male,Emergency,33,4,neutral,I received standard care; everything was as expected.
+933,46,Female,Follow-up,37,3,neutral,"Neutral experience, the service was acceptable."
+934,86,Male,New Consultation,80,4,neutral,"The service was average, nothing extraordinary."
+935,56,Female,Follow-up,23,3,neutral,I received standard care; everything was as expected.
+936,30,Male,New Consultation,61,4,positive,I had an excellent experience. The staff was friendly and professional.
+937,70,Male,Follow-up,87,4,neutral,"The visit met my expectations, but there is room for improvement."
+938,43,Male,Follow-up,81,4,neutral,"The visit met my expectations, but there is room for improvement."
+939,73,Male,Follow-up,16,3,neutral,"The visit met my expectations, but there is room for improvement."
+940,44,Male,Emergency,47,3,neutral,"The service was average, nothing extraordinary."
+941,63,Female,Checkup,46,4,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+942,89,Male,New Consultation,51,3,negative,Very unhappy with the service and the overall experience.
+943,85,Male,New Consultation,30,4,positive,I had an excellent experience. The staff was friendly and professional.
+944,54,Female,Routine Visit,92,1,negative,Very unhappy with the service and the overall experience.
+945,71,Male,New Consultation,8,3,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+946,24,Female,Emergency,15,4,negative,"I had an unsatisfactory visit, the staff seemed inattentive."
+947,62,Male,Emergency,32,3,negative,I am very disappointed with the long wait times and poor communication.
+948,43,Male,Routine Visit,87,1,neutral,"It was an okay experience, neither good nor bad."
+949,52,Female,New Consultation,21,3,positive,Outstanding service and attention. I highly recommend this facility.
+950,47,Female,Routine Visit,49,1,positive,The visit was smooth and the doctor was very helpful.
+951,64,Male,New Consultation,42,1,negative,Very unhappy with the service and the overall experience.
+952,39,Male,Emergency,117,1,positive,I am extremely satisfied with the quality of care.
+953,74,Male,Routine Visit,54,3,positive,I am extremely satisfied with the quality of care.
+954,18,Female,Routine Visit,64,2,positive,I had an excellent experience. The staff was friendly and professional.
+955,21,Male,Emergency,8,1,positive,"Great service, I felt well cared for and appreciated."
+956,67,Male,Routine Visit,39,5,positive,The visit was smooth and the doctor was very helpful.
+957,53,Female,New Consultation,47,3,neutral,"Neutral experience, the service was acceptable."
+958,35,Female,New Consultation,33,3,positive,"Great service, I felt well cared for and appreciated."
+959,76,Male,New Consultation,41,1,neutral,"The visit met my expectations, but there is room for improvement."
+960,63,Female,Checkup,8,3,neutral,I received standard care; everything was as expected.
+961,29,Female,New Consultation,22,2,positive,I am extremely satisfied with the quality of care.
+962,88,Male,Checkup,62,2,negative,I am very disappointed with the long wait times and poor communication.
+963,23,Female,New Consultation,76,3,neutral,"The service was average, nothing extraordinary."
+964,47,Male,Emergency,37,2,negative,Very unhappy with the service and the overall experience.
+965,44,Male,Checkup,25,4,negative,"Terrible service, I did not feel cared for at all."
+966,50,Male,Routine Visit,19,2,neutral,"It was an okay experience, neither good nor bad."
+967,61,Female,Emergency,7,3,positive,The visit was smooth and the doctor was very helpful.
+968,55,Male,Emergency,37,4,positive,Outstanding service and attention. I highly recommend this facility.
+969,28,Female,Follow-up,86,4,positive,I had an excellent experience. The staff was friendly and professional.
+970,39,Female,New Consultation,10,2,neutral,"Neutral experience, the service was acceptable."
+971,74,Male,Follow-up,20,4,positive,I am extremely satisfied with the quality of care.
+972,68,Male,Checkup,13,2,positive,I had an excellent experience. The staff was friendly and professional.
+973,49,Male,Routine Visit,46,5,neutral,"It was an okay experience, neither good nor bad."
+974,56,Female,Routine Visit,115,3,positive,I had an excellent experience. The staff was friendly and professional.
+975,46,Male,Follow-up,10,4,positive,I am extremely satisfied with the quality of care.
+976,36,Male,Emergency,88,4,positive,I had an excellent experience. The staff was friendly and professional.
+977,84,Male,Routine Visit,71,1,neutral,"It was an okay experience, neither good nor bad."
+978,88,Male,Emergency,45,1,neutral,I received standard care; everything was as expected.
+979,18,Female,Follow-up,84,1,positive,The visit was smooth and the doctor was very helpful.
+980,29,Male,Checkup,64,2,neutral,"Neutral experience, the service was acceptable."
+981,58,Female,Checkup,27,3,neutral,"The visit met my expectations, but there is room for improvement."
+982,86,Male,Checkup,22,5,positive,I am extremely satisfied with the quality of care.
+983,45,Female,Follow-up,64,1,positive,I am extremely satisfied with the quality of care.
+984,73,Male,Checkup,108,4,neutral,I received standard care; everything was as expected.
+985,85,Female,Checkup,102,3,negative,"Terrible service, I did not feel cared for at all."
+986,23,Female,Routine Visit,17,5,positive,I am extremely satisfied with the quality of care.
+987,83,Female,Routine Visit,118,4,positive,Outstanding service and attention. I highly recommend this facility.
+988,72,Male,Follow-up,39,5,neutral,"It was an okay experience, neither good nor bad."
+989,31,Female,Routine Visit,48,1,neutral,I received standard care; everything was as expected.
+990,60,Male,Follow-up,86,4,neutral,"It was an okay experience, neither good nor bad."
+991,77,Male,Checkup,23,4,negative,Very unhappy with the service and the overall experience.
+992,66,Male,Emergency,103,2,neutral,"Neutral experience, the service was acceptable."
+993,57,Female,Routine Visit,91,4,negative,"Terrible service, I did not feel cared for at all."
+994,33,Female,Follow-up,64,5,positive,I had an excellent experience. The staff was friendly and professional.
+995,72,Male,Routine Visit,30,5,negative,"The experience was below my expectations, and the care was subpar."
+996,82,Female,Follow-up,68,3,neutral,I received standard care; everything was as expected.
+997,47,Male,Follow-up,22,1,neutral,"The visit met my expectations, but there is room for improvement."
+998,40,Male,Routine Visit,48,2,positive,Outstanding service and attention. I highly recommend this facility.
+999,64,Female,Follow-up,46,2,positive,The visit was smooth and the doctor was very helpful.
+1000,23,Male,Checkup,113,1,neutral,"The service was average, nothing extraordinary."
